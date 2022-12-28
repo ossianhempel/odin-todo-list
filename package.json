@@ -1,0 +1,24 @@
+{
+  "name": "odin-todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ossianhempel/odin-todo-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ossianhempel/odin-todo-list/issues"
+  },
+  "homepage": "https://github.com/ossianhempel/odin-todo-list#readme",
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
